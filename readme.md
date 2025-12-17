@@ -8,11 +8,8 @@
 
 This project demonstrates the use of **Autonomous Multi-Agent Systems** for completing complex tasks like essay writing, web scraping, and summarization. Powered by **CrewAI**, these agents communicate with each other and work collaboratively to achieve the final output.
 
-📄 **Medium Article**: [Building Autonomous Multi-Agent Systems with CrewAI](https://dumanmesut.medium.com/building-autonomous-multi-agent-systems-with-crewai-1a3b3a348271) 
 
 🚀 **Live Demo**: [Essay Writer Demo](https://multi-agent-essay-writer.streamlit.app/)
-
-☕ **Support**: [Buy me a coffee](https://buymeacoffee.com/mesutduman)
 
 
 ### ⚙️ **Workflow**:
@@ -45,7 +42,7 @@ Autonomous-Multi-Agent-Systems-with-CrewAI-Essay-Writer
 ### 📦 **Installation**:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mesutdmn/Autonomous-Multi-Agent-Systems-with-CrewAI-Essay-Writer.git
+   git clone https://github.com/HuseyinBaytar/Autonomous-Multi-Agent-Systems-with-CrewAI-Essay-Writer.git
    cd Autonomous-Multi-Agent-Systems-with-CrewAI-Essay-Writer
    ```
 2. Install the dependencies:
@@ -75,7 +72,5 @@ https://github.com/user-attachments/assets/98264180-9440-4dfd-b304-67117e62a0e9
 https://github.com/user-attachments/assets/d8785bb6-0f7b-489f-89d2-15de26a0dcfb
 
 📄 **License**: This project is licensed under the MIT License.
-
-👨‍💻 **Developed by**: [Mesut Duman](https://www.linkedin.com/in/mesut-duman/)
 
 ---
